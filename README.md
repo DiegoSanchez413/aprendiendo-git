@@ -33,3 +33,7 @@ git checkout permite desplazarnos entre las ramas creadas por git branch
 1° Asegurarse estar en la carpeta donde queremos clonar el repositorio
 2° Copiamos la URL del repositorio 
 3° git clone https://github.com/DiegoSanchez413/aprendiendo-git
+
+# Pull
+Cuando alguien hace cambios y hace un push al repositorio remoto, y necesitamos los archivos actualizados
+requerimos de una actualización de repositorio [traer ultimos cambios]
