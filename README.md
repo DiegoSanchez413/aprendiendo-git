@@ -64,4 +64,4 @@ START
 
 
 FINISH
- - Feature : Cuando terminemos de desarrollar la funcionalidad lo pondremos
+ - Feature : Cuando terminemos de desarrollar la funcionalidad lo pondremos - puede que tengamos que eliminar el feature manualmente al terminar de remote y local.
