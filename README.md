@@ -17,3 +17,4 @@ git remote add origin https://github.com/DiegoSanchez413/aprendiendo-git.git
 
 # Branch 
 Cuando creamos un branch debe ser en base al estado de otro branch
+Y tenemos que pushear los cambios a la rama develop (rama creada)
