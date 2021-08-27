@@ -17,7 +17,6 @@ git remote add origin https://github.com/DiegoSanchez413/aprendiendo-git.git
 
 # Branch 
 Cuando creamos un branch debe ser en base al estado de otro branch
-<<<<<<< HEAD
 Y tenemos que pushear los cambios a la rama develop (rama creada
 Cualquier cambio hecho en la rama no impactara en master hasta que hagamos un merge,
 donde se combina los commits de un branch a otro.
@@ -26,5 +25,3 @@ Hacer git checkout es cuando cambiamos de rama.
 
 Recordar hacer merge develop (rama de desarrollo) into master, para eso debemos tener seleccionado
 la rama develop y hacemos click en la rama master.
-=======
->>>>>>> master
