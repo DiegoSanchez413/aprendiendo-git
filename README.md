@@ -62,8 +62,10 @@ START
 
  - Feature : cuando implementamos una funcionalidad nueva y queremos que este separada de la rama develop
  - Release : lo pnemos cuando tenemos una app funcional
+ - HotFixes : cuando requerimos urgentemente arreglar unos bugs
 
 FINISH
  - Feature : Cuando terminemos de desarrollar la funcionalidad lo pondremos - puede que tengamos que eliminar el feature manualmente al terminar de remote y local.
 
- - Release : aqui le añadimos el tag
+ - Release : aqui le añadimos el tag [no olvidar hacer push en el tag tambien]
+ - HotFixes :
