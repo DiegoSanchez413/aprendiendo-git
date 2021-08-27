@@ -24,7 +24,7 @@ Cualquier cambio hecho en la rama no impactara en master hasta que hagamos un me
 donde se combina los commits de un branch a otro.
 
 Recordar hacer merge develop (rama de desarrollo) into master, para eso debemos tener seleccionado
-la rama develop y hacemos click en la rama master.
+la rama master y hacemos click en la rama develop y luego deberemos hacer un push para que se efectuen los cambios
+a la rama master.
 
-Hacer git checkout es cuando cambiamos de rama y guardamos los cambios de nuestra rama develop a master.
-
+git checkout permite desplazarnos entre las ramas creadas por git branch
