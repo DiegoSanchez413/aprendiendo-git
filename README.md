@@ -37,3 +37,7 @@ git checkout permite desplazarnos entre las ramas creadas por git branch
 # Pull
 Cuando alguien hace cambios y hace un push al repositorio remoto, y necesitamos los archivos actualizados
 requerimos de una actualización de repositorio [traer ultimos cambios]
+
+# Tags
+Los tags lo utilizamos para etiquetar las versiones del repositorio, crea un zip en el repositorio para descargar.
+Y debemos hacer un push to origin, no olvidar.
