@@ -28,3 +28,8 @@ la rama master y hacemos click en la rama develop y luego deberemos hacer un pus
 a la rama master.
 
 git checkout permite desplazarnos entre las ramas creadas por git branch
+
+# Clonar un repositorio
+1° Asegurarse estar en la carpeta donde queremos clonar el repositorio
+2° Copiamos la URL del repositorio 
+3° git clone https://github.com/DiegoSanchez413/aprendiendo-git
