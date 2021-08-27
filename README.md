@@ -61,3 +61,7 @@ Luego en la ventana del lado izquierdo apareceran opciones.
 START
 
  - Feature : cuando implementamos una funcionalidad nueva y queremos que este separada de la rama develop
+
+
+FINISH
+ - Feature : Cuando terminemos de desarrollar la funcionalidad lo pondremos
