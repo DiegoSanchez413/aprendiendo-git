@@ -20,3 +20,5 @@ Cuando creamos un branch debe ser en base al estado de otro branch
 Y tenemos que pushear los cambios a la rama develop (rama creada
 Cualquier cambio hecho en la rama no impactara en master hasta que hagamos un merge,
 donde se combina los commits de un branch a otro.
+
+Hacer git checkout es cuando cambiamos de rama
